@@ -11,6 +11,7 @@ int main()
  cout<<"El nro que ingresaste es: "<<n<<endl;
     
     getch();
+    
    // system ("pasue");
     return 0;
     
