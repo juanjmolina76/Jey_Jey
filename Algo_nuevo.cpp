@@ -5,4 +5,5 @@ int main()
 {
     system ("pasue");
     return 0;
+    
 }
