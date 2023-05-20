@@ -84,7 +84,7 @@ if (completion_ratio < 1.0 / 3.0) {
     return 0;
 }
 
-          //obtenet la fecha actual
+                    //obtenet la fecha actual
 void fecha_actual ()
 {      
     auto now = chrono::system_clock::now();
