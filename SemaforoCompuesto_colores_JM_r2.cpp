@@ -66,8 +66,6 @@ int main() {
    //llamo la funcion diasRestantes
     diasRestantes(end_day, end_month, end_year); 
     /*          AGREGADO  para cambiar color del systema */
-    
-    
 int remaining_days = diasRestantes(end_day, end_month, end_year); 
 
 double completion_ratio = static_cast<double>(remaining_days) / days;
@@ -84,7 +82,7 @@ if (completion_ratio < 1.0 / 3.0) {
     return 0;
 }
 
-                    //obtenet la FECHA ACTUAL
+     //obtener la FECHA ACTUAL
 void fecha_actual ()
 {      
     auto now = chrono::system_clock::now();
