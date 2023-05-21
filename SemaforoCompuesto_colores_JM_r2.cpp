@@ -65,7 +65,7 @@ int main() {
    fecha_actual();
    //llamo la funcion diasRestantes
     diasRestantes(end_day, end_month, end_year); 
-    /*          AGREGADO  para cambiar color del systema */
+    /*AGREGADO  para cambiar color del systema */
 int remaining_days = diasRestantes(end_day, end_month, end_year); 
 
 double completion_ratio = static_cast<double>(remaining_days) / days;
