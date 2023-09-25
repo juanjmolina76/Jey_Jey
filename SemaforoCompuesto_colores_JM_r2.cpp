@@ -4,6 +4,9 @@ Actua como un semaforo que indica ña cercania de la fecha de vencimiento a la f
 rojo: muy cercana
 amarillo: medio
 verde: lejana
+
+Ademas informa la cantidad de dias restantes antes del vencimiento.
+La idea es sumar una interface grafica y toma de datos por ocr cargando en base de datos y muestreo en api web.
 */
 
 #include <iostream>
