@@ -1,4 +1,4 @@
-# Jey_Jey
+DE# Jey_Jey
 Este programa es un "semaforo" de advertencia de fechas de expiracion o vencimiento.
 
 Es muy simple ya que se ingresa la fecha de elaboracion o produccion de un producto, y luego se 
@@ -17,9 +17,9 @@ el cual dependerá de la proximidad a la fecha de vencimiento teniendo en cuenta
 elaboracion, la fecha actual y la fecha que va a expirar.
 
 Funciona entonces como una ALERTA DE VENCIMIENTO ya que 
-* Al salir color verde permite saber que proporcionalmente la fecha de vencimiento es lejana.
-* Al salir color amarillo perimte saber que hay que estar atento ya que está en un rango intermedio y merece revisiones
+* Al salir color VERDE permite saber que proporcionalmente la fecha de vencimiento es lejana.
+* Al salir color AMARILLO perimte saber que hay que estar atento ya que está en un rango intermedio y merece revisiones
 periodicas. 
-* Al salir color rojo, permite saber que es PROXIMA  a vencer o expirar y hay que poner ATENCION! y estar ALERTA!.
+* Al salir color ROJO, permite saber que es PROXIMA  a vencer o expirar y hay que poner ATENCION! y estar ALERTA!.
 
 
