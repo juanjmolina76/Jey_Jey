@@ -1,4 +1,7 @@
 DE# Jey_Jey
+
+(  SemaforoCompuesto_colores_JM_r2  )
+
 Este programa es un "semaforo" de advertencia de fechas de expiracion o vencimiento.
 
 Es muy simple ya que se ingresa la fecha de elaboracion o produccion de un producto, y luego se 
