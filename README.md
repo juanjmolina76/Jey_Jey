@@ -15,7 +15,7 @@ son traducidas internamente a segundos por el programa).
 
 -La cantidad de dias restantes para la expiracion o vencimiento.
 
-Ademas el fondo de la consola se va a teñir de alguno de los tres colores ( rojo, amarillo, verde)
+Ademas el fondo de la consola (cmd) se va a teñir de alguno de los tres colores ( rojo, amarillo, verde)
 el cual dependerá de la proximidad a la fecha de vencimiento teniendo en cuenta el rango entre la fecha de
 elaboracion, la fecha actual y la fecha que va a expirar.
 
