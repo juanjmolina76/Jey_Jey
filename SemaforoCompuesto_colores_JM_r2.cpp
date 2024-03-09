@@ -116,7 +116,7 @@ int diasRestantes(int end_day, int end_month, int end_year) /*antes era void*/
 
     cout << "Días restantes: " << remaining_days << endl;
 
-    return remaining_days; 
+ //   return remaining_days; 
 }
 
 
