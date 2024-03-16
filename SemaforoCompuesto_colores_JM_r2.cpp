@@ -1,3 +1,14 @@
+/* 
+Es un programa para identificar la inminencia de la fecha de vencimiento de un producto.
+Actua como un semaforo que indica ña cercania de la fecha de vencimiento a la fecha actual respecto a la de elaboracion.
+rojo: muy cercana
+amarillo: medio
+verde: lejana
+
+Ademas informa la cantidad de dias restantes antes del vencimiento.
+La idea es sumar una interface grafica y toma de datos por ocr cargando en base de datos y muestreo en api web.
+*/
+
 #include <iostream>
 #include <string>
 #include <ctime>
